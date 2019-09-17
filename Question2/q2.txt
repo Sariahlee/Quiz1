@@ -1,0 +1,2 @@
+The git status command is not mandatory to type each time, because it is useful when we want to check if what files and folders have used git to create checkpoints. We use "git status" to see which files were tracked or not tracked.
+Commands like ls, git status, and pwd are not node commands. Node is like a scratchpad that shows how and if the code is running well. We should type ".exit" to get out of the node mode and back to the terminal mode.

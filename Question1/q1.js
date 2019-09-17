@@ -1,0 +1,1 @@
+// Q1 : GitHub is a sharing service platform among users, on which people can see the history of the coding (changes made and etc.). Git is a tool that creates multiple checkpoints on the user's computer so that in case we make a mistake and need to roll back, we can revert to wherever we need to.
